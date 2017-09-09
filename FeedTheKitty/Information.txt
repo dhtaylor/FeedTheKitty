@@ -1,0 +1,32 @@
+2 dice
+20 mice
+bowl (Kitty)
+mice divided by players, remainder in bowl
+start player randomly chosen
+
+CreateArcadeSimulator
+	- Initialize
+		- Get Simulation Settings
+		- Get Output File Location
+		- Setup GameScheduler
+		- Setup GameTables
+		- Setup StatsTracker
+			- Number of Tables
+			- Number of Players Current
+			- Number of Players Total
+			- Number of Games Current
+			- Number of Games Total
+			- Most Common Dice Face
+			- Biggest Winner
+			- Most Winning Table
+		
+	- RunSimulation
+		- Start Timer
+		- For Each clock tick, execute one turn for each game
+		- Record Game State
+		- If Game Complete, Record Final Statistics
+		
+	- PrintResults
+		- Output to Screen
+		- Output to File
+		

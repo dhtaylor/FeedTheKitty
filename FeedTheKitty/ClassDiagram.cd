@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="DiceFace has a Color and a Symbol">
+    <Position X="10.198" Y="5.052" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="ArrowSymbol" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAEAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArrowSymbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BowlSymbol" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>BowlSymbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CatSymbol" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAgAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CatSymbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Color" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreenColor" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>GreenColor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseSymbol" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MouseSymbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedColor" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RedColor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Symbol" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Symbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiceFace" Collapsed="true">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIBAAAAAAAABAAAAAAABgAAAEAAACAAAAAAABAAAA=</HashCode>
+      <FileName>DiceFace.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
